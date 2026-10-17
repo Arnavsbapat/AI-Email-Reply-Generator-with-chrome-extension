@@ -1,0 +1,28 @@
+# Secrets
+**/application.properties
+**/application-local.properties
+.env
+**/.env
+**/.env.*
+
+# Java / Maven
+**/target/
+HELP.md
+
+# Node / React
+**/node_modules/
+**/dist/
+**/build/
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
